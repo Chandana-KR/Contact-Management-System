@@ -33,7 +33,6 @@ The Contact Management System allows users to manage their contacts with functio
    ```bash
    git clone <repository-url>
    cd contact-management-system
-
 Install the dependencies: npm install
 
 
